@@ -5,4 +5,4 @@ Simple website created with bootstrap
 - font-awesome : 4.7.0
 
 
-Demo: https://kaibamr.github.io/bootstrap_one_page_theme/src/index.html
+Demo: [here](https://kaibamr.github.io/bootstrap_one_page_theme/src/index.html)
